@@ -9,14 +9,14 @@ https://paraschaturvedi.github.io/car-scroll-animation
 
 ## Objective
 
-Evaluate frontend animation skills through a hero section that combines:
+Frontend animation skills through a hero section that combines:
 - polished intro motion
 - scroll-based interaction logic
 - smooth and performant rendering
 
 ## Tech Stack
 
-Mandatory stack used in this submission:
+Mandatory stack used:
 - Next.js (App Router)
 - React.js
 - Tailwind CSS
@@ -94,21 +94,10 @@ npm run build
 npm start
 ```
 
-## Deployment
-
-You can deploy to any free hosting platform.
-
-Recommended options:
-- GitHub Pages (assignment preferred)
-- Vercel (fastest for Next.js)
-
 ## Submission Requirements
 
-### 1. Live webpage link
-- Live URL: [ADD_YOUR_LIVE_LINK_HERE](ADD_YOUR_LIVE_LINK_HERE)
-
-### 2. GitHub repository link
-- Repository URL: [ADD_YOUR_GITHUB_REPO_LINK_HERE](ADD_YOUR_GITHUB_REPO_LINK_HERE)
+Live webpage link
+- Live URL: [https://scroll-animation-beta-one.vercel.app/](https://scroll-animation-beta-one.vercel.app/)
 
 ## Quick Submission Checklist
 
@@ -118,12 +107,4 @@ Recommended options:
 - [x] Scroll-tied core motion implemented
 - [x] GSAP used for smooth interaction
 - [x] Tailwind + Next.js + React stack used
-- [ ] Live URL added
-- [ ] GitHub repository URL added
-
-## Notes for Evaluator
-
-The animation behavior is intentionally scroll-coupled and progressive:
-- Car drive and green band reveal are synchronized
-- Stats reveal in stagger during scroll progression
-- Interaction is tuned for smoothness over abrupt transitions
+- [x] Live URL added
